@@ -1,5 +1,7 @@
 # ASE-Portfolio-Banatin
 
+# ASE Portfolio
+
 ## Course Introduction
 This course covers how to build and test software that uses AI agents.
 It also covers Agile development, Git, and responsible use of AI.
